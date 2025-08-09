@@ -17,7 +17,7 @@ const scale = (num, in_min, in_max, out_min, out_max) => {
 };    <ul class="nav-list">
       <li class="link">Home</li>
       <li class="link">Project</li>
-      <li class="link">About</li>
+      <li class-----------------="link">About</li>
     </ul>
 
 
